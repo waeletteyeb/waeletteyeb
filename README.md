@@ -1,4 +1,4 @@
-# 💫 About Me:
+About Me:
 💡 Computer engineering student at the National Engineering School of Tunis (ENIT), passionate about Artificial Intelligence and software development.  
 I enjoy building intelligent systems, exploring new technologies, and working on projects that combine creativity with problem-solving.  
 Currently improving my skills in machine learning, deep learning, and full-stack development.  
